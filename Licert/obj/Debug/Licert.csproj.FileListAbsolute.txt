@@ -1,0 +1,16 @@
+D:\Development\Licert\Licert\bin\Debug\Licert.exe.config
+F:\Development\Licert\Licert\bin\Debug\Licert.exe.config
+F:\Development\Licert\Licert\obj\Debug\MainWindow.g.cs
+F:\Development\Licert\Licert\obj\Debug\App.g.cs
+F:\Development\Licert\Licert\obj\Debug\Licert_MarkupCompile.cache
+F:\Development\Licert\Licert\obj\Debug\Licert_MarkupCompile.lref
+F:\Development\Licert\Licert\bin\Debug\Licert.exe
+F:\Development\Licert\Licert\bin\Debug\Licert.pdb
+F:\Development\Licert\Licert\obj\Debug\MainWindow.baml
+F:\Development\Licert\Licert\obj\Debug\Licert.g.resources
+F:\Development\Licert\Licert\obj\Debug\Licert.Properties.Resources.resources
+F:\Development\Licert\Licert\obj\Debug\Licert.csproj.GenerateResource.Cache
+F:\Development\Licert\Licert\obj\Debug\Licert.exe
+F:\Development\Licert\Licert\obj\Debug\Licert.pdb
+F:\Development\Licert\Licert\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Development\Licert\Licert\obj\Debug\Licert.csprojResolveAssemblyReference.cache
